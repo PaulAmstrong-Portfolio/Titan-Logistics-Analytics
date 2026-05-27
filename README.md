@@ -58,7 +58,7 @@ To prevent relationship multiplication traps and data inflation across the 196,0
 
 ## 🎨 Enterprise Dashboard
 The analytics engine culminates in a high-contrast, single-page **Executive Command Center Layout** engineered for rapid executive scanning:
-![Titan Logistics Executive DashBoard](TL-DASHBOARD.jpg)
+![Titan Logistics Executive DashBoard](TL-DASHBOARD.png)
 
 1. **Top KPI Banner:** Monitors dynamic **Net Profit**, **Maintenance-to-Revenue Percentages**, and average **OTD Rates**.
 2. **Dynamic Cross-Filters:** Integrated dual-axis slicers tracking **Operating Year** and **Infrastructure Hub Type** 

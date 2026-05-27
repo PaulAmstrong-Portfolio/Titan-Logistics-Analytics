@@ -8,7 +8,7 @@ By integrating a structured **SQL Server Data Warehouse** with a dynamic, high-c
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+## 🛠️ Data Infrastructure & Model Architecture
 * **Microsoft Excel:** Power Query, Excel Formulas.
 * **Data Engineering & Warehousing:** Microsoft SQL Server (SSMS), Relational Schema Design, Composite/Surrogate Keys, Common Table Expressions (CTEs), Subqueries, Advanced Windows Functions.
 * **Business Intelligence & Visualization:** Power BI Desktop, DAX Measures, Cross-Filter Optimization, User Experience (UI/UX) Layout Mapping.
@@ -58,7 +58,7 @@ To prevent relationship multiplication traps and data inflation across the 196,0
 
 ## 🎨 Enterprise Dashboard
 The analytics engine culminates in a high-contrast, single-page **Executive Command Center Layout** engineered for rapid executive scanning:
-![DashBoard View](https://github.com/PaulAmstrong-Portfolio/Titan-Logistics-Analytics/blob/main/TL-DASHBOARD.png)
+![Titan Logistics Executive DashBoard](TL-DASHBOARD.jpg)
 
 1. **Top KPI Banner:** Monitors dynamic **Net Profit**, **Maintenance-to-Revenue Percentages**, and average **OTD Rates**.
 2. **Dynamic Cross-Filters:** Integrated dual-axis slicers tracking **Operating Year** and **Infrastructure Hub Type** 
